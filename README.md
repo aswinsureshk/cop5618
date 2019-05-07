@@ -45,8 +45,5 @@ To run java test:
 
 java -cp .:../lib/junit-4.12.jar:../lib/hamcrest-all-1.3.jar org.junit.runner.JUnitCore multichat.ChatTest
 
-
-
-*All members were involved in code reiview and poster creation 
  
-Instructions for compilation are found in the README.md in each folder. 
+Instructions for compilation are also found in the README.md in each folder. 
