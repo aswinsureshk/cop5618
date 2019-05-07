@@ -1,7 +1,10 @@
 # COP5618
 Concurrent Programming Project
 
-Project Topic: The objective of the project is to perform a qualitative and quantitative comparison of two different coding languages: GoLang and Java. Go and Java offer two different concurrent coding philosophies. Go provides an abstraction called channels while Java offers the basic thread and shared variables paradigm. By implmenting a multiclient chat room, the project is able to explore multiple characteristics of concurrency and provides a good method to compare both languages. 
+Project Topic: 
+The objective of the project is to perform a qualitative and quantitative comparison of two different coding languages: GoLang and Java. 
+Go and Java offer two different concurrent coding philosophies. Go provides an abstraction called channels while Java offers the basic thread and shared variables paradigm. 
+By implmenting a multiclient chat room, the project is able to explore multiple characteristics of concurrency and provides a good method to compare both languages. 
 
 Instructions to compile and run code and tests
 -----------------------------------------------
@@ -11,9 +14,9 @@ GO
 
 To run go code: 
 
-1.  start server : cd COP5618/Go/cd server
+1.  start server : cd COP5618/Go/server;
                    go server.go
-2.  start client : cd COP5618/Go/client
+2.  start client : cd COP5618/Go/client;
                    go client.go
 
 To run go test:
